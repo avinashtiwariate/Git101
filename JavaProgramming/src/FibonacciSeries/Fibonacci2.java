@@ -1,5 +1,6 @@
 package FibonacciSeries;
 
-public class Fibonacci2 {
+public class Fibonacci2 
+{
 
 }
